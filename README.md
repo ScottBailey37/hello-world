@@ -1,2 +1,2 @@
 # hello-world
-Simple hello world test
+This is just the sample readme file ion github. Good day!
